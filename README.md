@@ -2,6 +2,8 @@
 Telegram-бот SunOnTon_bot
 <br>
 
+https://github.com/Quasar-bot-development/SunOnTon_bot/assets/83154713/2f07f8dd-7cf9-4d5c-be37-928a1ef79d65
+
 ## Содержание
 - [Технологии](#технологии)
 - [Функционал](#функционал)
