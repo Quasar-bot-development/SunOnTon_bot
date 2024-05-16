@@ -44,8 +44,7 @@ async def start_loop(message: Message, bot: Bot):
     await message.answer_photo(caption=f" Для начала, займи лежак на нашем пляже👇\n{CHANEL_NAME}", photo=FSInputFile("./img/welcome.jpg"), reply_markup=kb.take_seat_keyboard)
     if not db.is_old(message.from_user.id):
         db.add_new_user(message.from_user.id, message.from_user.full_name)
-        
-    await is_referral(message)
+        await is_referral(message)
 
 
 @router.message(F.text == "Занял!⛱")
