@@ -25,11 +25,11 @@ https://github.com/Quasar-bot-development/SunOnTon_bot/assets/83154713/2f07f8dd-
 <br>
 For Windows:
 ```
-git clone https://github.com/Whynot46/SunOnTon_bot
+git clone https://github.com/Quasar-bot-development/SunOnTon_bot
 ```
 For Linux:
 ```
-sudo git clone https://github.com/Whynot46/SunOnTon_bot
+sudo git clone https://github.com/Quasar-bot-development/SunOnTon_bot
 ```
 <hr>
 Установите необходимые библиотеки с помощью команды:
